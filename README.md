@@ -1,5 +1,5 @@
 ### Shahzain
-Hi, I am 14 year old JS developer, I am self thought, I have created 1 open source software [called musicBotForDiscord](https://github.com/shahzain345/musicBotForDiscord) 
+Hi, I am 14 year old JS developer, I am self thought, I have created 1 open source software called[musicBotForDiscord](https://github.com/shahzain345/musicBotForDiscord) 
 I am the official developer of [Daily Bot](http://dailybot.ml) and the founder of Daily Bot
 # Contact Me
 💬 My Discord: Z̶╎𝓗𝓢⠐Shahzainᴰᴱᵛ#2220
