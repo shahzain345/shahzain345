@@ -1,4 +1,4 @@
-## Hi there, I'm Shahzain aka (Shahzain345)[https://github.com/Shahzain345] 👋
+## Hi there, I'm Shahzain aka [Shahzain345](https://github.com/Shahzain345) 👋
 
 # I am a Developer and a Student
 <li>I am currently learning Python</li></br>
@@ -8,15 +8,15 @@
 ## Fun Facts
 
 I started coding when I was 9 years old</br>
-Developer of (Daily Bot)[http://dailybot.ml]</br>
-Founder of (Zamonix)[http://zamonix.ml]</br>
+Developer of [Daily Bot](http://dailybot.ml)</br>
+Founder of [Zamonix](http://zamonix.ml)</br>
 
 # Tools
-(Vs Code)[https://code.visualstudio.com]</br>
-(Node JS)[https://nodejs.org]</br>
-(React)[https://reactjs.org/]</br>
-(Angular)[https://angular.io/]</br>
-(Discord.js)[https://discord.js.org]
+[Vs Code](https://code.visualstudio.com)</br>
+[Node JS](https://nodejs.org)</br>
+[React](https://reactjs.org/)</br>
+[Angular](https://angular.io/)</br>
+[Discord.js](https://discord.js.org)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
