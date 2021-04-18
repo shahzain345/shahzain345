@@ -9,7 +9,7 @@
 
 I started coding when I was 9 years old</br>
 Developer of [Daily Bot](http://dailybot.ml)</br>
-Founder of [Zamonix](http://zamonix.ml)</br>
+Founder of [Zamonix](https://discord.gg/zamonix)</br>
 
 # Tools
 [Vs Code](https://code.visualstudio.com)</br>
