@@ -19,7 +19,7 @@ Hello! I'm Malik Shahzain, an 18-year-old self-taught developer from Pakistan. I
 
 ## Skills
 
-- **Programming Languages:** C#, JavaScript, Python
+- **Programming Languages:** C#, JavaScript, TypeScript, Rust, Java, Python
 - **Web Development:** MongoDB, Express.js, React.js, Node.js (MERN stack)
 - **Bot Development:** Automation scripts, Discord bots
 - **Tools & Technologies:** Git, Docker, Jenkins
